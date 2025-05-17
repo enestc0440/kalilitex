@@ -7,6 +7,29 @@ Düzenle
 # 🛡️ KaliLiteX: Ultimate Offensive Security Terminal Suite
 
 > **Yalnızca yasal ve etik test ortamları için geliştirilmiş, kapsamlı ve modüler siber güvenlik araç seti.**
+>⚠️ Sorumluluk Reddi
+KaliLiteX yalnızca eğitim, araştırma ve yetkili sızma testleri için tasarlanmıştır. Bu yazılımın herhangi bir yasa dışı veya izinsiz sistemlere karşı kullanımı tamamen kullanıcı sorumluluğundadır.
+
+Bu yazılım:
+
+Kapsamında üçüncü parti araçlar ve framework'ler barındırır.
+
+KaliLiteX yalnızca merkezi Python scriptini (çekirdek orchestrator) sağlar.
+
+Dahil edilen araçların her biri kendi lisansı ve geliştiricisine sahiptir.
+
+Hiçbir şekilde aşağıdaki işlemler için geliştirici sorumluluk kabul etmez:
+
+Kötüye kullanım
+
+Verilerin kaybı veya bozulması
+
+Yetkisiz erişim, izinsiz denetim veya deneme
+
+Kullanım öncesinde her bileşenin lisans ve yasal gerekliliklerini okuyup kabul ettiğinizi varsayarız.
+
+
+> 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
