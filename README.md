@@ -14,6 +14,15 @@ KaliLiteX
 >⚠️ Sorumluluk Reddi
 KaliLiteX yalnızca eğitim, araştırma ve yetkili sızma testleri için tasarlanmıştır. Bu yazılımın herhangi bir yasa dışı veya izinsiz sistemlere karşı kullanımı tamamen kullanıcı sorumluluğundadır.
 
+> ⚠️ **Açık Kaynak & Topluluğa Açık Geliştirme**  
+> KaliLiteX, topluluğun katkılarına tamamen açık bir projedir.  
+> Bu yazılım aktif olarak geliştirilmektedir ve yeni modüller, düzeltmeler, temalar veya diller eklemek isteyen herkes katkıda bulunabilir.  
+> Forklayabilir, pull request gönderebilir ya da fikirlerinizi Issues sekmesinden paylaşabilirsiniz.
+
+> 🧩 Katkı Sağla: [Nasıl Katkıda Bulunabilirim?](https://github.com/ENESxAIs/KaliLiteX/issues)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/ENESxAIs/KaliLiteX/issues)
+
+
 Bu yazılım:
 
 Kapsamında üçüncü parti araçlar ve framework'ler barındırır.
