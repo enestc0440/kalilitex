@@ -37,7 +37,6 @@ Düzenle
 - Aşağıdaki bağımlılıklar:
 
 ```bash
-pip install -r requirements.txt
 Alternatif olarak otomatik kurulum:
 
 bash
