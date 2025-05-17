@@ -117,10 +117,16 @@ Bonus	dark_sorgu, 1337 Hacker Modu, rapor üretimi
 
 📄 Lisans
 MIT Lisansı. Detaylar için LICENSE dosyasına bakınız.
+📝 Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır. Ancak:
 
+CMSeek, Nikto, Sn1per, SocialBox, Photon, SQLMap gibi bağımsız projeler kendi geliştiricilerine aittir.
+
+KaliLiteX bu araçları yükler, başlatır ve raporlar. Bu araçların hiçbirini içeriğinde barındırmaz, sadece erişim sağlar.
+ bu arada lütfen projeyi geliştirmemize yardım edin kendinizden bişeyler ekleyin ve mükemmelleştirin
 🙋 Sorumluluk Reddi
 Bu araç yalnızca eğitim, test ve izinli siber güvenlik çalışmaları için tasarlanmıştır. Geliştirici, yasa dışı kullanımlardan sorumlu değildir.
 
 🧠 Geliştirici
 👤 ENESxAİs
-📧 İletişim için GitHub Issues kullanabilirsiniz.
+📧 İletişim için GitHub Issues kullanabilirsiniz. yada instagram eness._200w
