@@ -4,6 +4,9 @@ markdown
 Kopyala
 Düzenle
 # ⚡ KaliLiteX Ultimate Security Suite
+# 🛡️ KaliLiteX: Ultimate Offensive Security Terminal Suite
+
+> **Yalnızca yasal ve etik test ortamları için geliştirilmiş, kapsamlı ve modüler siber güvenlik araç seti.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
