@@ -1,6 +1,12 @@
 # kalilitex
 KaliLiteX
 
+![License](https://img.shields.io/github/license/ENESxAIs/KaliLiteX?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-Kali%20Linux%20%7C%20WSL2-red?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+
+
 # ⚡ KaliLiteX Ultimate Security Suite
 # 🛡️ KaliLiteX: Ultimate Offensive Security Terminal Suite
 
