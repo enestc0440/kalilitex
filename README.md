@@ -34,7 +34,7 @@ Kullanım öncesinde her bileşenin lisans ve yasal gerekliliklerini okuyup kabu
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![Platform](https://img.shields.io/badge/platform-Kali%20Linux%20%7C%20WSL2%20%7C%20Ubuntu-red)](https://www.kali.org/)
-
+- windows / linux / WSL2 / belki macos 
 > 🔥 Tüm siber güvenlik araçları tek terminalde,  görsel raporlar ile!
 
 ---
