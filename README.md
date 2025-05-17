@@ -30,6 +30,8 @@ Düzenle
 ---
 
 ### ⚙️ Kurulum
+İlk çalıştırmada tüm bağımlılıklar otomatik kurulur. Eksik araçlar için bilgilendirme verilir.
+
 
 > 🔴 **UYARI**: Yalnızca yetkili sistemlerde ve yasal amaçlarla kullanınız.
 
