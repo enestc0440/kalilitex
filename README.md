@@ -1,8 +1,6 @@
 # kalilitex
 KaliLiteX
-markdown
-Kopyala
-Düzenle
+
 # ⚡ KaliLiteX Ultimate Security Suite
 # 🛡️ KaliLiteX: Ultimate Offensive Security Terminal Suite
 
@@ -68,15 +66,13 @@ Kullanım öncesinde her bileşenin lisans ve yasal gerekliliklerini okuyup kabu
 Alternatif olarak otomatik kurulum:
 
 bash
-Kopyala
-Düzenle
+
 python3 kalisuite.py
 İlk çalıştırmada tüm modüller otomatik yüklenir ve eksik araçlar için kurulum komutları verilir.
 
 🚀 Kullanım
 bash
-Kopyala
-Düzenle
+
 python3 kalisuite.py
 Ana menüden kullanmak istediğiniz aracı seçin:
 
@@ -92,8 +88,7 @@ q: Çıkış
 
 📑 Örnek Ekran Görüntüsü
 text
-Kopyala
-Düzenle
+
 KaliLiteX Ultimate security suite
 
 Sürüm: 4.5 | Geliştirici: ENESxAİs | 1337 Mod Aktif
