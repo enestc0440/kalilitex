@@ -267,7 +267,7 @@ async def ddos_simulation(target: str, duration: int = 10):
     generate_report({"Hedef": target, "Süre": f"{duration} saniye"}, "pdf")
 
 async def dark_sorgu_query(query: str) -> Dict:
-    """Dark sorgu simülasyonu."""
+    """sorgu simülasyonu."""
     console.print("[bold red]Etik Kullanım Uyarısı: Sadece yasal ve yetkili hedeflerle çalışın![/bold red]")
     console.print(f"[bold yellow]Dark sorgu: {query} için arama yapılıyor...[/bold yellow]")
     results = {"Sorgu": query, "Sonuç": f"Simüle edilmiş veri: {query} için örnek sonuçlar"}
