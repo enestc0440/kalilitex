@@ -68,6 +68,27 @@ Kullanım öncesinde her bileşenin lisans ve yasal gerekliliklerini okuyup kabu
 ### ⚙️ Kurulum
 İlk çalıştırmada tüm bağımlılıklar otomatik kurulur. Eksik araçlar için bilgilendirme verilir.
 
+PowerShell Version (Recommended)
+
+File: Save as security-toolkit.ps1
+Run: powershell -ExecutionPolicy Bypass -File security-toolkit.ps1
+More robust and feature-rich
+Better error handling and colored output
+
+Batch Version
+
+File: Save as security-toolkit.bat
+Run: Double-click or run from command prompt
+Compatible with older Windows systems
+Simpler but functional
+
+Prerequisites for Windows:
+Install using Chocolatey:
+cmdchoco install nmap nikto sqlmap curl hashcat python
+Install Python tools:
+cmdpip install theHarvester sublist3r sherlock-project
+
+
 for macos 
 # Install via Homebrew
 brew install nmap nikto dirb whatweb fierce dnsrecon coreutils
