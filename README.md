@@ -68,6 +68,16 @@ Kullanım öncesinde her bileşenin lisans ve yasal gerekliliklerini okuyup kabu
 ### ⚙️ Kurulum
 İlk çalıştırmada tüm bağımlılıklar otomatik kurulur. Eksik araçlar için bilgilendirme verilir.
 
+for macos 
+# Install via Homebrew
+brew install nmap nikto dirb whatweb fierce dnsrecon coreutils
+
+# Install Python tools
+pip3 install theHarvester sublist3r sherlock-project
+
+# Make executable
+chmod +x security_toolkit.sh
+./security_toolkit.sh
 
 > 🔴 **UYARI**: Yalnızca yetkili sistemlerde ve yasal amaçlarla kullanınız.
 
